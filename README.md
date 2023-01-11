@@ -1,7 +1,6 @@
 
 Arvind Dhaliwal Assignment 4
-Question one reads 200 2-digit numbers from a f.dat file, then stores them into a 2-diminesional array. Then using a down heap
-algorithm it sorts it and displays the sorted array.
+Question one reads 200 2-digit numbers from a f.dat file, then stores them into a 2-diminesional array. Then using a down heap algorithm it sorts it and displays the sorted array.
 Sample output from Q1:
 input: f.dat
 output: 
