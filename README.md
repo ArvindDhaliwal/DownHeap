@@ -1,5 +1,5 @@
+--Arvind Dhaliwal--November 12,2022--
 
-Arvind Dhaliwal Assignment 4
 Question one reads 200 2-digit numbers from a f.dat file, then stores them into a 2-diminesional array. Then using a down heap algorithm it sorts it and displays the sorted array using the addition of last 3 digits from each row as the key
 Sample output from Q1:
 input: f.dat
